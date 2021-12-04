@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="jfreechart-1.5.3">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Downloads/jar_files/jfreechart-1.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jfreechart-1.5.3.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
